@@ -564,3 +564,23 @@ Start importing Assets/Materials/circle.mat using Guid(75f27002527fa48a7a9299949
  -> (artifact id: '0685c8622541b8f38eec95f93579b598') in 0.061755 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 937.296486 seconds.
+  path: Assets/Textures/circle.png
+  artifactKey: Guid(c8795c5a2e74a4f4ab7e02d239be2775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/circle.png using Guid(c8795c5a2e74a4f4ab7e02d239be2775) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 14 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 14 workers.
+ -> (artifact id: 'bed28a460d299e907e5fec6529407940') in 0.012538 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3.221623 seconds.
+  path: Assets/Materials/circle.mat
+  artifactKey: Guid(75f27002527fa48a7a929994911857d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/circle.mat using Guid(75f27002527fa48a7a929994911857d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 14 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 14 workers.
+ -> (artifact id: '3b835ce603fdf597117b15a157a7d76d') in 0.019523 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
